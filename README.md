@@ -25,6 +25,6 @@ El sistema permite registrar un libro completando un formulario con título, aut
 NRC: 1382
 
 ## Integrantes:
-- Harvey Joel Fonseca Escobar
+- Harvey Joel Foncesa Escobar
 - César Augusto Tamayo Ñaupa
 - Mateo David Viracucha Armijos
