@@ -1,0 +1,150 @@
+body {
+    background-image: url(https://previews.123rf.com/images/yaroslavka/yaroslavka1710/yaroslavka171000006/87333827-fondo-blanco-del-c%C3%B3digo-binario-del-vector-big-data-y-programaci%C3%B3n-de-pirater%C3%ADa-descifrado-y.jpg);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+nav {
+    background-color: #0b6477;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+    border: 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 15px;
+}
+
+nav a:hover {
+    background-color: #14919b;
+}
+
+.container {
+    max-width: 600px;
+    margin: 20px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1,
+h3 {
+    color: #333;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+form label {
+    margin: 10px 0 5px;
+}
+
+form input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+form button {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #5cb85c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #4cae4c;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table th,
+table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+table th {
+    background-color: #f2f2f2;
+}
+
+table tr:hover {
+    background-color: #f1f1f1;
+}
+
+body {
+    background-color: #f8f9fa;
+}
+
+.logo {
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.divider {
+    width: 50%;
+    border-top: 3px solid rgb(0, 85, 0);
+    margin: 10px auto;
+}
+
+
+.container_c {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 20px;
+    flex-wrap: wrap;
+    padding: 20px;
+    flex-grow: 1;
+}
+
+.box {
+    width: 225px;
+    background: rgba(0, 0, 0, 0.8);
+    font-size: 12px;
+    padding: 15px;
+    text-align: center;
+    color: white;
+    border-radius: 15px;
+    box-shadow: 7px 13px 37px rgba(100, 70, 38, 0.8);
+}
+
+.box-img {
+    border-radius: 50%;
+    width: 112.5px;
+    height: 112.5px;
+    object-fit: cover;
+}
+
+.box h1 {
+    font-size: 18px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    margin: 15px 0 7.5px;
+}
+
+.box h2 {
+    font-size: 13.5px;
+    letter-spacing: 1px;
+    margin-bottom: 11.25px;
+}
+
+.box p {
+    text-align: justify;
+}
